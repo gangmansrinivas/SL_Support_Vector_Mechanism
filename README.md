@@ -2,6 +2,7 @@
 # **Name**:Srinivas
 # **Roll No**:20X01A6703
 # **Branch**:lV year cse(data science)
+# **Github:** https://github.com/gangmansrinivas
 # **College**:Narsimha Reddy Engineering College
 # **Project** **Title** **:** Using support vector mechanism  algorithem of suppervis machin learning,predict iris.csv dataset to find out species will be same or different 
 # **problem statement:** A American based botnical garden grow iris flower  in ther lab but using bio technology in a singal tree differnt type of variety flower is grow as datascience engineer find out how much aacuracy is ther all categeries contain same specias.
