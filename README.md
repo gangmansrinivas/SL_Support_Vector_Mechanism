@@ -15,6 +15,7 @@
 # Task7:Testthe model with the help of accuracy,accuracy should lie in range of 0-1  
 ![image](https://github.com/gangmansrinivas/SL_Support_Vector_Mechanism/assets/143176194/3eedf112-7c78-4df7-9f08-6e8fab4a5fb2)
 ![image](https://github.com/gangmansrinivas/SL_Support_Vector_Mechanism/assets/143176194/e04dad57-72b8-4acc-9c36-b7d2975897cf)
+
 #Conclusion:Accordind to my support vector mechanism model the specias are linear.with the accuracy of 1.00
 # Hence proved  model was sussesfully impliment 
 
